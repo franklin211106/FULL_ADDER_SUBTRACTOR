@@ -1,6 +1,6 @@
+### NAME: FRANKLIN.F
+### REF NO.:24900641
 # FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
 
@@ -37,19 +37,20 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![WhatsApp Image 2024-11-28 at 14 35 13_a46d0032](https://github.com/user-attachments/assets/e26138ae-0291-40c3-9a35-ab410a44ad62)
 
 **Procedure**
-
-Write the detailed procedure here
+Implementing FULL ADDER AND SUBTRACTOR in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 **Program:**
+![Screenshot (8)](https://github.com/user-attachments/assets/a54f23c6-e654-4e5d-8da4-5bedf5655044)
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
 
 **RTL Schematic**
+![Screenshot (11)](https://github.com/user-attachments/assets/3d0fa6f8-ff42-4c30-85de-ecfa7befa801)
 
 **Output Timing Waveform**
+![Screenshot (10)](https://github.com/user-attachments/assets/f6fc5cb6-38df-402b-8cf7-db06ccfe4460)
 
 **Result:**
 
